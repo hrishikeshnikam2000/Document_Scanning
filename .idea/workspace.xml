@@ -12,7 +12,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="C:\Users\hrishi\Desktop\Document Scanner\imagesearch\__init__.py">
+        <entry file="file://$PROJECT_DIR$/pyimagesearch/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -22,7 +22,7 @@
         </entry>
       </file>
       <file leaf-file-name="scan.py" pinned="false" current-in-tab="true">
-        <entry file="C:\Users\hrishi\Desktop\Document Scanner\scan.py">
+        <entry file="file://$PROJECT_DIR$/scan.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
@@ -34,7 +34,7 @@
         </entry>
       </file>
       <file leaf-file-name="transform.py" pinned="false" current-in-tab="false">
-        <entry file="C:\Users\hrishi\Desktop\Document Scanner\imagesearch\transform.py">
+        <entry file="file://$PROJECT_DIR$/pyimagesearch/transform.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -86,7 +86,7 @@
             <path>
               <item name="document-scanner" type="b2602c69:ProjectViewProjectNode" />
               <item name="document-scanner" type="462c0819:PsiDirectoryNode" />
-              <item name="imagesearch" type="462c0819:PsiDirectoryNode" />
+              <item name="pyimagesearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -152,7 +152,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="C:\Users\hrishi\Desktop\Document Scanner\imagesearch\__init__.py">
+    <entry file="file://$PROJECT_DIR$/pyimagesearch/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -160,7 +160,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="C:\Users\hrishi\Desktop\Document Scanner\imagesearch\__init__.py">
+    <entry file="file://$PROJECT_DIR$/pyimagesearch/transform.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -170,7 +170,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="C:\Users\hrishi\Desktop\Document Scanner\imagesearch\imutils.py">
+    <entry file="file://$PROJECT_DIR$/pyimagesearch/imutils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -178,7 +178,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="C:\Users\hrishi\Desktop\Document Scanner\scan.py">
+    <entry file="file://$PROJECT_DIR$/scan.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
